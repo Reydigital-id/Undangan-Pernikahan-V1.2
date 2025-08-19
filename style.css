@@ -12,7 +12,7 @@ body {
 
 .hero::before {
   content: "";
-  background-image: url(/img/background2.jpg);
+  background-image: url("/img/background2.jpg");
   position: absolute;
   top: 0;
   left: 0;
@@ -436,3 +436,4 @@ body {
     top: 31px;
   }
 }
+
